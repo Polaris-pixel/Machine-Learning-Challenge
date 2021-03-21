@@ -4,7 +4,7 @@
 
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
 
-The purpose of this project was to craete multiple machine learning models and compare them to identify the best model for classifying candidate exoplanets from the raw dataset.
+The purpose of this project was to create multiple machine learning models and compare them to identify the best model for classifying candidate exoplanets from the raw dataset.
 
 ## Methods Used
 
@@ -50,4 +50,4 @@ The purpose of this project was to craete multiple machine learning models and c
     
 ## Conclusion
 
-In conclusion, based on the results above, the Random Forest algorithm has a higher accuracy than the Linear Regression algorithm. The hyperparameters tuning did help to increase the efficiency in both the models. After hyperparameters tuning, Random Forest has a slightly higher performance than Linear Regression.
+In conclusion, based on the results above, the Random Forest algorithm has a higher accuracy than the Linear Regression algorithm. The hyperparameters tuning did help to increase the accuracy of Linear Regression model, but not that of Random Forest model. After hyperparameters tuning, Random Forest has a slightly higher performance than Linear Regression.
